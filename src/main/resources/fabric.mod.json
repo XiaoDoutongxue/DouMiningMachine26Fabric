@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "douminingmachine",
+  "version": "${version}",
+  "name": "DouMiningMachine",
+  "description": "Minecraft 26.2 Fabric 自动挖矿机、挖石机、铲土机 Mod",
+  "authors": [
+    "XiaoDou"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/douminingmachine/textures/block/mining_machine_front.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.xiaodou.douminingmachine.DouMiningMachine"
+    ],
+    "client": [
+      "com.xiaodou.douminingmachine.client.DouMiningMachineClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "jei": "*"
+  }
+}

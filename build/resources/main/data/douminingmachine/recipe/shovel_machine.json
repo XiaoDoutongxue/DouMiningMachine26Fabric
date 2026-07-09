@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "IFI",
+    " S "
+  ],
+  "key": {
+    "I": "minecraft:iron_block",
+    "F": "minecraft:furnace",
+    "S": "minecraft:diamond_shovel"
+  },
+  "result": {
+    "id": "douminingmachine:shovel_machine",
+    "count": 1
+  }
+}

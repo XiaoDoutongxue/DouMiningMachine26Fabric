@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "douminingmachine:block/stone_mining_machine"
+  }
+}

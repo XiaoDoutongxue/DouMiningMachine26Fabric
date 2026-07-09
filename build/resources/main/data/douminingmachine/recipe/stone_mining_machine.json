@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "IFI",
+    " P "
+  ],
+  "key": {
+    "I": "minecraft:iron_block",
+    "F": "minecraft:furnace",
+    "P": "minecraft:iron_pickaxe"
+  },
+  "result": {
+    "id": "douminingmachine:stone_mining_machine",
+    "count": 1
+  }
+}

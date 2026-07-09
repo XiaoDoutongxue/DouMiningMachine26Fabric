@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "douminingmachine:block/shovel_machine",
+      "y": 0
+    },
+    "facing=east": {
+      "model": "douminingmachine:block/shovel_machine",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "douminingmachine:block/shovel_machine",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "douminingmachine:block/shovel_machine",
+      "y": 270
+    }
+  }
+}

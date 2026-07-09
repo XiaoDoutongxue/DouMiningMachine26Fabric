@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "douminingmachine:mining_machine",
+    "douminingmachine:stone_mining_machine",
+    "douminingmachine:shovel_machine"
+  ]
+}

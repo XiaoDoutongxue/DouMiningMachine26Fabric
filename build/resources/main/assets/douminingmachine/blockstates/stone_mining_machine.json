@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "douminingmachine:block/stone_mining_machine",
+      "y": 0
+    },
+    "facing=east": {
+      "model": "douminingmachine:block/stone_mining_machine",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "douminingmachine:block/stone_mining_machine",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "douminingmachine:block/stone_mining_machine",
+      "y": 270
+    }
+  }
+}
